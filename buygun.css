@@ -36,6 +36,7 @@
     margin: 15px 14px;
     /*! border: 3px rgba(180, 178, 178, 0.733) solid; */
     background-color: white;
+    flex-direction: column;
 }
 
 
