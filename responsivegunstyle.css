@@ -17,9 +17,7 @@
         width: 10vw;
       }
       
-     .gunpanel .gun a{
-        font-size: 17px;
-     }
+    
 
       }
  
@@ -46,7 +44,11 @@
     
             width: 57vw;
         }
-    }
+    .gunpanel .gun a{
+        font-size: 17px;
+     }
+
+}
 
 
 
