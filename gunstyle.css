@@ -32,7 +32,12 @@ nav .navh1 {
 
 }
 
-
+section{
+    width: 100vw;
+}
+header{
+    width: 100vw;
+}
 
 .search {
     display: flex;
