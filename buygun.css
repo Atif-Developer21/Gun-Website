@@ -1,0 +1,105 @@
+
+
+
+
+
+.buygunarea {
+    display: flex;
+    justify-content: center;
+
+    flex-wrap: wrap;
+    width: 98vw;
+
+    align-items: center;
+    margin: 0px 10px;
+
+}
+
+.buyguncollection img {
+
+
+    width: 9vw;
+
+}
+
+
+
+
+.buyguncollection {
+
+
+    display: flex;
+    width: 893px;
+    height: 418px;
+    text-align: center;
+    align-items: center;
+    margin: 15px 14px;
+    /*! border: 3px rgba(180, 178, 178, 0.733) solid; */
+    background-color: white;
+}
+
+
+
+
+.buygunh1 {
+    font-size: 20px;
+}
+
+.buyguncoltext {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.buygunpara {
+    font-size: 19px;
+    color: blue;
+}
+
+.buybuttongun {
+
+
+    width: 78px;
+    height: 33px;
+    border: 3px solid black;
+    border-radius: 33px;
+    background-color: #14ff00;
+    color: white;
+
+}
+
+.buygunprice {
+
+    color: red;
+    font-size: 20px;
+}
+
+
+.buyguncollection h3 span{
+ 
+
+
+  font-size: 20px;
+  color: rgb(39, 198, 238);
+  text-shadow: 2px black solid;
+
+  display: flex;
+
+
+}
+.buyguncollection h3 {
+    
+    margin: 20px 0px;
+   
+}
+.buybuttongun  a{
+    text-decoration: none;
+    color: black;
+}
+
+
+    
+
+
+    
+    

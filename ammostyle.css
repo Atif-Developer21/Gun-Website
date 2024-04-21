@@ -1,0 +1,95 @@
+
+
+.ammocollection img {
+
+
+    width: 4.0vw;
+
+}
+
+
+
+
+.ammocollection {
+
+
+    display: flex;
+    width: 463px;
+    height: 242px;
+    text-align: center;
+    align-items: center;
+    margin: 15px 14px;
+    border: 3px rgba(180, 178, 178, 0.733) solid;
+    background-color: white;
+}
+
+
+
+
+
+.ammoh1 {
+    font-size: 20px;
+}
+
+.ammocoltext {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.ammopara {
+    font-size: 13px;
+    color: blue;
+}
+
+.ammobuybtn {
+
+
+    width: 78px;
+    height: 33px;
+    border: 3px solid black;
+    border-radius: 33px;
+    background-color: #14ff00;
+    color: white;
+
+}
+
+.ammoprice {
+
+    color: red;
+    font-size: 20px;
+}
+
+
+
+
+
+
+.ammocollection h3 span {
+
+    background-color: rgba(68, 174, 235, 0.808);
+    border: 1px black solid;
+    border-radius: 5px;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    text-shadow: 2px black solid;
+    padding: 3px;
+}
+
+.ammocollection h3 {
+
+    margin: 20px 0px;
+
+}
+.ammoarea{
+
+
+    display: flex;
+    justify-content: center;
+
+    flex-wrap: wrap;
+    width: 93vw;
+
+    align-items: center;
+    margin: 0px 10px;
+}

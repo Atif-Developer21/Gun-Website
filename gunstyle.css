@@ -1,0 +1,253 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family:
+        "IBM Plex Sans", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+
+}
+
+nav {
+    display: flex;
+    height: 116px;
+
+
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    margin: 12px 12px;
+}
+
+nav .navh1 {
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    font-family: "Jersey 25", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+
+}
+
+
+
+.search {
+    display: flex;
+    align-items: center;
+}
+
+.plchldr {
+    display: flex;
+    align-items: center;
+}
+
+.search input {
+
+    width: 30vw;
+    height: 27px;
+    border: 6px solid black;
+    margin: 0 18px 0 15px;
+    padding: 0px 0px;
+
+}
+
+.search button {
+
+    border: 3px solid rgb(118, 117, 151);
+    width: 78px;
+    height: 34px;
+    background-color: #ffffff78;
+    /*! color: white; */
+}
+
+ul {
+    display: flex;
+    align-items: center;
+
+
+
+}
+
+ul li {
+
+    margin: 0px 7px;
+    padding: 0px 11px;
+    list-style: none;
+
+}
+
+
+.gunpanel {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+    width: 100vw;
+    height: 65px;
+   
+}
+
+.gun {
+    display: flex;
+    font-size: 35px;
+    font-family: "IBM Plex Sans", sans-serif;
+    font-weight: 700;
+    font-style: bold;
+}
+
+
+
+.cartlogo {
+    display: flex;
+}
+
+.cartlogo img {
+    margin: 0px 5px;
+    width: 50px;
+}
+
+.gunarea {
+    display: flex;
+    justify-content: center;
+
+    flex-wrap: wrap;
+    width: 93vw;
+
+    align-items: center;
+    margin: 0px 10px;
+
+}
+
+.guncollection img {
+
+
+    width: 4vw;
+
+}
+
+
+
+
+.guncollection {
+
+
+    display: flex;
+    width: 463px;
+    height: 300px;
+    text-align: center;
+    align-items: center;
+    margin: 15px 14px;
+    border: 3px rgba(180, 178, 178, 0.733) solid;
+    background-color: white;
+}
+
+
+.cartlogo {
+    display: flex;
+    align-items: center;
+    margin: 12px 12px;
+
+}
+
+.cartlogo img {
+    width: 40px;
+}
+
+
+.gunh1 {
+    font-size: 20px;
+}
+
+.guncoltext {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.gunpara {
+    font-size: 13px;
+    color: blue;
+}
+
+.gunbuybtn {
+
+
+    width: 78px;
+    height: 33px;
+    border: 3px solid black;
+    border-radius: 33px;
+    background-color: #14ff00;
+    color: rgb(0, 0, 0);
+
+}
+
+.gunprice {
+
+    color: red;
+    font-size: 20px;
+}
+
+
+.frontpage {
+    position: relative;
+    text-align: center;
+
+}
+
+.frontpage img {
+    width: 65vw;
+
+    margin: 57px 0px;
+
+}
+
+.browse a {
+    text-decoration: none;
+    color: white;
+}
+
+.browse {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 50px;
+
+
+    background-color: #0d0d0d82;
+    width: 370px;
+    height: 143px;
+    text-align: match-parent;
+}
+
+footer {
+
+    font-size: 12px;
+}
+
+.guncollection h3 span{
+    
+    font-size: 20px;
+  color: rgb(39, 198, 238);
+  text-shadow: 2px black solid;
+
+  display: flex;
+}
+.guncollection h3 {
+    
+    margin: 20px 0px;
+   
+}
+.gun a{
+    text-decoration: none;
+    color: white;
+}
+.gunbuybtn  a{
+    text-decoration: none;
+    color: black;
+}
